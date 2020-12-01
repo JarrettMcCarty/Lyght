@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{9A34FA6E-F09F-4054-BFAE-A3482A3C1FFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lyght", "Lyght\Lyght.vcxproj", "{E30C0153-7109-49DE-A933-98E3BFEEE33A}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30C0153-7109-49DE-A933-98E3BFEEE33A}.Debug|x64.ActiveCfg = Debug|x64
+		{E30C0153-7109-49DE-A933-98E3BFEEE33A}.Debug|x64.Build.0 = Debug|x64
+		{E30C0153-7109-49DE-A933-98E3BFEEE33A}.Release|x64.ActiveCfg = Release|x64
+		{E30C0153-7109-49DE-A933-98E3BFEEE33A}.Release|x64.Build.0 = Release|x64
+		{9A34FA6E-F09F-4054-BFAE-A3482A3C1FFC}.Debug|x64.ActiveCfg = Debug|x64
+		{9A34FA6E-F09F-4054-BFAE-A3482A3C1FFC}.Debug|x64.Build.0 = Debug|x64
+		{9A34FA6E-F09F-4054-BFAE-A3482A3C1FFC}.Release|x64.ActiveCfg = Release|x64
+		{9A34FA6E-F09F-4054-BFAE-A3482A3C1FFC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE74CEA8-A35F-4000-9888-28921E979AB5}
+	EndGlobalSection
+EndGlobal
